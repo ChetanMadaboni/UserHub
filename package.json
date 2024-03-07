@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ChetanMadaboni/UserHub/issues"
   },
-  "homepage": "https://github.com/ChetanMadaboni/UserHub#readme"
+  "homepage": "https://github.com/ChetanMadaboni/UserHub#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
 }
